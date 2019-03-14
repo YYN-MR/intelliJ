@@ -118,7 +118,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'RunApp'</Description>
-          <Count>11</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat'">

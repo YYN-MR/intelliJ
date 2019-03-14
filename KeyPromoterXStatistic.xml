@@ -94,7 +94,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Clean'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Install'">
@@ -102,7 +102,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Install'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Rebuild'">
@@ -118,7 +118,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'RunApp'</Description>
-          <Count>4</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat'">
@@ -166,7 +166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RunApp'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat'">

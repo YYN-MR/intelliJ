@@ -150,7 +150,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat 8.0.30'</Description>
-          <Count>15</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat'">

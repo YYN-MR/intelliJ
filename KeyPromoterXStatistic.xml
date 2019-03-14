@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>Maven.CollapseAll</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+减号'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Path">
         <Item>
           <IdeaActionID>CopyPaths</IdeaActionID>
@@ -30,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>19</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find...">
@@ -46,7 +54,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -102,7 +110,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Clean'">

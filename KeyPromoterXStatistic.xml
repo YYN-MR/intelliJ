@@ -153,6 +153,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Redo Backspace">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Backspace</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
@@ -351,6 +359,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Backspace">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Backspace</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">

@@ -201,6 +201,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild Module 'dubbo-parent'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Rebuild Module 'dubbo-parent'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Redo Backspace">
         <Item>
           <IdeaActionID>$Redo</IdeaActionID>
@@ -366,7 +374,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">

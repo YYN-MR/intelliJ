@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>321</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -278,7 +278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>143</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -318,7 +318,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Rebuild'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RunApp'">

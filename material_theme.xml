@@ -3,9 +3,8 @@
     <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="ffd866" />
+    <option name="accentColor" value="ff359f" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="22f81431:16a0f334ce0:-8000" />
     <option name="version" value="3.5.0.1" />

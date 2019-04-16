@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>366</Count>
+          <Count>367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -294,6 +294,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'RunApp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SpringCloudDemoApplicationTests.doListStream'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SpringCloudDemoApplicationTests.doListStream'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

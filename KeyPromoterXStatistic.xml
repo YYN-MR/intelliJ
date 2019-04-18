@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -390,7 +390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Rebuild'</Description>
-          <Count>37</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RunApp'">
@@ -446,7 +446,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'osaccount [install]'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -526,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Rebuild'</Description>
-          <Count>61</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RunApp'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 8.0.30'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat'">

@@ -398,7 +398,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Rebuild'</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RunApp'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'osaccount [install]'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -534,7 +534,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Rebuild'</Description>
-          <Count>74</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RunApp'">
@@ -566,7 +566,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'osaccount [install]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">

@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>420</Count>
+          <Count>421</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -246,6 +246,14 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo Backspace</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Flip '.equals()'">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Flip '.equals()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

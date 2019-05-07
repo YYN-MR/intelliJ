@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头'</ShortCut>
           <Description>Back</Description>
-          <Count>30</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>449</Count>
+          <Count>455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -167,6 +167,14 @@
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Force Step Into</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+向右箭头'</ShortCut>
+          <Description>Forward</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">

@@ -422,7 +422,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Main'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main.main()'">
@@ -495,6 +495,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'osaccount [install]'</Description>
           <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'spring-cloud-demo [install]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'spring-cloud-demo [install]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">

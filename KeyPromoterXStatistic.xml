@@ -270,7 +270,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'dubbo-parent'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat 8.0.30'</Description>
-          <Count>35</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat'">
@@ -537,6 +537,14 @@
           <Count>26</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'osmobile [install]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'osmobile [install]'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'spring-cloud-demo [install]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -566,7 +574,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>39</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">

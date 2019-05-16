@@ -73,6 +73,14 @@
           <Count>30</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AccountHelperApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AccountHelperApplication'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Application'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'dubbo-parent'">
@@ -382,7 +390,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>238</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -399,6 +407,14 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AccountHelperApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'AccountHelperApplication'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Clean'">
@@ -569,6 +585,14 @@
           <Count>48</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AccountHelperApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AccountHelperApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Application'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -670,7 +694,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>138</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Backspace">

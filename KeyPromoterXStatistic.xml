@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Rebuild'</Description>
-          <Count>141</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'RunApp'">
@@ -462,7 +462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'RunApp'</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat 8.0.30'">
@@ -534,7 +534,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'osaccount [install]'</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'osmobile [install]'">
@@ -654,7 +654,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Rebuild'</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RunApp'">

@@ -489,6 +489,14 @@
           <Count>88</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Shape.dart'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Shape.dart'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tomcat 8.0.30'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
